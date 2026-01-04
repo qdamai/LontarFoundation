@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "lontar-abcs"
+  },
+  "targets": {
+    "lontar-abcs": {
+      "hosting": {
+        "mainweb": [
+          "lontar-abcs"
+        ],
+        "adminpanel": [
+          "lontar-abcs-admin"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

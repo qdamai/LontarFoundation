@@ -1,0 +1,77 @@
+[
+  {
+    "id": "fa001",
+    "category": "Karya Seni",
+    "name": "Ibu dan Anak (Silkscreen)",
+    "description": "Sebuah karya silkscreen edisi terbatas yang menggambarkan kehangatan hubungan antara ibu dan anak dalam nuansa budaya Indonesia. Dicetak di atas kertas berkualitas tinggi.",
+    "price": 15000000,
+    "image_url": "assets/images/karya_seni/ibu_dan_anak.png",
+    "details": {
+      "art_type": "Silkscreen",
+      "artist_name": "Populer Artist"
+    }
+  },
+  {
+    "id": "fa002",
+    "category": "Karya Seni",
+    "name": "Pemandangan Bali (Oil Painting)",
+    "description": "Lukisan cat minyak di atas kanvas yang menangkap keindahan sawah terasering di Bali dengan cahaya pagi yang magis. Ukuran 120x80 cm.",
+    "price": 85000000,
+    "image_url": "assets/images/karya_seni/pemandangan_bali.png",
+    "details": {
+      "art_type": "Oil Painting",
+      "artist_name": "Bali Maestro"
+    }
+  },
+  {
+    "id": "bk001",
+    "category": "Buku Publikasi Khusus",
+    "name": "Illuminations: The Writing Traditions of Indonesia",
+    "description": "Sebagai yayasan nirlaba, Lontar telah menerbitkan lebih dari 250 judul buku. 'Illuminations' adalah hasil survey pertama dan satu-satunya yang menyoroti kekayaan tradisi menulis di Indonesia, dengan lebih dari 600 gambar berwarna. Diskon signifikan diberikan untuk penjualan ini.",
+    "price": 450000,
+    "image_url": "assets/images/buku/illuminations.png",
+    "details": {}
+  },
+  {
+    "id": "bk002",
+    "category": "Buku Publikasi Khusus",
+    "name": "Plaited Arts from the Borneo Rainforest",
+    "description": "Menampilkan seni anyaman yang rumit dan indah dari hutan hujan Kalimantan. Buku ini mendokumentasikan warisan budaya yang tak ternilai dari masyarakat adat di sana. Diskon signifikan diberikan.",
+    "price": 400000,
+    "image_url": "assets/images/buku/plaited_arts.png",
+    "details": {}
+  },
+  {
+    "id": "hc001",
+    "category": "Kerajinan Tangan",
+    "name": "Set Wayang Kulit 'Ramayana'",
+    "description": "Satu set wayang kulit lengkap dari kisah epik Ramayana, dibuat dengan detail oleh pengrajin ahli dari Jawa. Terdiri dari 25 karakter utama. Harga per set bisa mencapai Rp 85.000.000.",
+    "price": 65000000,
+    "image_url": "assets/images/kerajinan_tangan/wayang_set.png",
+    "details": {
+      "item_type": "Wayang Set"
+    }
+  },
+  {
+    "id": "hc002",
+    "category": "Kerajinan Tangan",
+    "name": "Kain Panjang Vintage",
+    "description": "Koleksi kain panjang vintage dari Jawa dengan motif batik tulis klasik. Sebagian besar kain koleksi kami adalah pakaian vintage yang memiliki nilai sejarah dan seni tinggi.",
+    "price": 5000000,
+    "image_url": "assets/images/kerajinan_tangan/kain_panjang.png",
+    "details": {
+      "item_type": "Vintage Textile"
+    }
+  },
+  {
+    "id": "hc003",
+    "category": "Kerajinan Tangan",
+    "name": "Lentera Wayang Kulit (Blencong)",
+    "description": "Blencong, atau lentera wayang kulit, adalah lampu minyak tradisional yang digunakan dalam pertunjukan wayang untuk menciptakan bayangan yang hidup. Kerajinan otentik dan fungsional.",
+    "price": 1200000,
+    "image_url": "assets/images/kerajinan_tangan/blencong.png",
+    "details": {
+      "item_type": "Lentera Wayang Kulit"
+    }
+  }
+] 

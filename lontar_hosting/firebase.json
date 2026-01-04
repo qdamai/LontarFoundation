@@ -1,0 +1,26 @@
+{
+  "hosting": [
+    {
+      "site": "lontar-abcs",
+      "public": "mainweb/build/web",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    },
+    {
+      "site": "lontar-abcs-admin",
+      "public": "adminpanel/build/web",
+      "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+      "rewrites": [
+        {
+          "source": "**",
+          "destination": "/index.html"
+        }
+      ]
+    }
+  ]
+}
